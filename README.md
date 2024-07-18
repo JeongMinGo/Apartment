@@ -32,6 +32,9 @@ Train 및 Test 데이터를 구 정보를 Key로하여 공원과 보육시설 �
 
 ![image](https://github.com/user-attachments/assets/83665dc1-f98b-4b86-80e4-a68656b7b1b5)
 
+<데이터 변환 전> 
+
+
 
 
 
