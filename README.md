@@ -39,12 +39,38 @@ Train 및 Test 데이터를 구 정보를 Key로하여 공원과 보육시설 �
 ![image](https://github.com/user-attachments/assets/3ecf2bbf-bd77-4322-a7a4-82a5668b6a41)
 
 
-실제값과 예측값값의 차이를 제곱하여 더한 후 평균을 구하는 값인 MSE를 사용하는데 있어 오차값이 크게 도출되는 경우 속도의 영향을 줄 수 있는 단점이 존재하여 해당되는 식에 Root를 추가한 RMSE를 사
+실제값과 예측값값의 차이를 제곱하여 더한 후 평균을 구하는 값인 MSE를 사용하는데 있어 오차값이 크게 도출되는 경우 속도의 영향을 줄 수 있는 단점이 존재하여 해당되는 식에 Root를 추가한 RMSE를 사용
+
+● Model Selection 
+1. LinearRegression
+
+![image](https://github.com/user-attachments/assets/366683a5-edcf-4316-b43a-541c209c91b4)
+
+2. RidgeRegression
+
+![image](https://github.com/user-attachments/assets/27a4dd96-db94-482c-9557-55b314024c93)
+
+3. lassoRegression
+
+![image](https://github.com/user-attachments/assets/88c3d16c-65ca-4ab2-b7b1-77894203cfd3)
 
 
+4. Elastic Net Regression
+   
+![image](https://github.com/user-attachments/assets/dd2b96a1-3a69-4868-a64e-8d77d4f0226b)
 
 
+5. XGBRegressor
 
+   ![image](https://github.com/user-attachments/assets/dba0f447-6380-4144-b4e4-8756a3187bba)
+
+6. LGBMRegressor
+
+![image](https://github.com/user-attachments/assets/dd9f8446-ab20-4bb7-a072-10dcb1ab6730)
+
+● Total Score 
+
+![image](https://github.com/user-attachments/assets/652ef474-2838-47af-a85b-8b8ca7153aea)
 
 
 
