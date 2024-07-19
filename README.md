@@ -30,7 +30,8 @@ Train 및 Test 데이터를 구 정보를 Key로하여 공원과 보육시설 �
 
 ● Exclusive use Area, Price Log 변환
 
-<Exclusive use Area>
+로그변환 목적:  log의 역할은 큰 수를 같은 비율의 작은 수로 바꿔주고 복잡한 계산을 심플하게 만든다. 로그를 취하는 순간 그 수는 지수가 되어버리니, 값이 작아짐으로써 정규성을 높이고 분석에서 정확한 값을 얻을수 있다.
+  
 ![image](https://github.com/user-attachments/assets/aa10a4b3-5898-4912-a6c8-20b4b88070a2)
 
 
