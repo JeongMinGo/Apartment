@@ -72,6 +72,9 @@ Train 및 Test 데이터를 구 정보를 Key로하여 공원과 보육시설 �
 
 ![image](https://github.com/user-attachments/assets/652ef474-2838-47af-a85b-8b8ca7153aea)
 
+● Feature Importance
+
+![image](https://github.com/user-attachments/assets/5e9a0a73-4b57-47f1-a826-4ade1c2e36c8)
 
 
 
