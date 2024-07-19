@@ -30,7 +30,12 @@ Train 및 Test 데이터를 구 정보를 Key로하여 공원과 보육시설 �
 
 ● Exclusive use Area, Price Log 변환
 
+<Exclusive use Area>
 ![image](https://github.com/user-attachments/assets/aa10a4b3-5898-4912-a6c8-20b4b88070a2)
+
+<Price>
+![image](https://github.com/user-attachments/assets/0c64a15c-15aa-434a-9993-9a31a429886b)
+
 
 
 
